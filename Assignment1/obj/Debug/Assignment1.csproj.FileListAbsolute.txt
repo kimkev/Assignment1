@@ -1,0 +1,14 @@
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\k6yk0\Desktop\Past School zip\Sheridan Term 4\1.NET C#\Assignments\A1\Kevin_Kim_991456570_Assignment_1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\k6yk0\Desktop\Past School zip\Sheridan Term 4\1.NET C#\Assignments\A1\Kevin_Kim_991456570_Assignment_1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\k6yk0\Desktop\Past School zip\Sheridan Term 4\1.NET C#\Assignments\A1\Kevin_Kim_991456570_Assignment_1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\k6yk0\Desktop\Past School zip\Sheridan Term 4\1.NET C#\Assignments\A1\Kevin_Kim_991456570_Assignment_1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\k6yk0\Desktop\Past School zip\Sheridan Term 4\1.NET C#\Assignments\A1\Kevin_Kim_991456570_Assignment_1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\k6yk0\Desktop\Past School zip\Sheridan Term 4\1.NET C#\Assignments\A1\Kevin_Kim_991456570_Assignment_1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\k6yk0\Desktop\Past School zip\Sheridan Term 4\1.NET C#\Assignments\A1\Kevin_Kim_991456570_Assignment_1\Assignment1\obj\Debug\Assignment1.pdb
